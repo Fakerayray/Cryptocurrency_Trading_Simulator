@@ -1,5 +1,3 @@
-Of course. The issue you're seeing is due to incorrect markdown formatting. I've fixed the syntax to ensure the headings, lists, code blocks, and table are rendered correctly.
-
 # Merkelmain: A C++ Cryptocurrency Trading Simulator
 
 Merklemain is a command-line cryptocurrency trading application written in C++. It simulates a real-world trading environment by reading historical market data from CSV files. Users can analyze the market, manage a wallet, place buy (bid) and sell (ask) orders, and view market statistics across different timeframes. The application includes advanced features like candlestick chart generation and plotting directly in the terminal.
